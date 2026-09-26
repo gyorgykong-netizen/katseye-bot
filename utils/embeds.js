@@ -1,10 +1,11 @@
-const { EmbedBuilder, AttachmentBuilder } = require('discord.js');
-const fs = require('fs');
-const path = require('path');
-const { POCAS_DIR } = require('../data/cards');
+const { EmbedBuilder } = require('discord.js');
 
 const BRAND_NAME = 'EYE Cards';
 const BRAND_ICON = null; // set to a URL string later if you want, e.g. your bot's avatar URL
+
+// GitHub raw base URL — images are hosted here instead of locally, keeping the bot's
+// deployment package tiny (a few KB instead of 450MB+) so it fits on free hosts like Pella.
+const GITHUB_BASE_URL = 'https://raw.githubusercontent.com/gyorgykong-netizen/katseye-bot/master/pocas/';
 
 const RARITY_COLORS = {
   common: 0xB0B0B0, uncommon: 0x4CAF50, rare: 0x2196F3,
@@ -24,18 +25,13 @@ function buildCardEmbed(card, { owned = null, footer = null } = {}) {
       { name: 'Rarity', value: card.rarity[0].toUpperCase() + card.rarity.slice(1), inline: true },
     );
 
-  const files = [];
-  const imagePath = path.join(POCAS_DIR, card.image);
-  if (fs.existsSync(imagePath)) {
-    // Use a clean, URL-safe filename for the attachment (spaces/special chars break Discord's URL validation)
-    const ext = path.extname(card.image) || '.png';
-    const safeName = `card_${card.id}${ext}`;
+  // Build the image URL from GitHub instead of reading a local file.
+  // encodeURIComponent handles spaces and special characters in filenames
+  // (e.g. "Daniela - Beautiful Chaos Weverse Fansign.jpg" -> URL-safe).
+  const safeFilename = encodeURIComponent(card.image);
+  const imageUrl = GITHUB_BASE_URL + safeFilename;
 
-    files.push(new AttachmentBuilder(imagePath, { name: safeName }));
-    embed.setImage(`attachment://${safeName}`);
-  } else {
-    embed.setDescription('⚠️ *Image file missing from /pocas folder*');
-  }
+  embed.setImage(imageUrl);
 
   if (owned !== null) embed.addFields({ name: 'You own', value: `${owned}x`, inline: true });
 
@@ -44,7 +40,7 @@ function buildCardEmbed(card, { owned = null, footer = null } = {}) {
     iconURL: BRAND_ICON || undefined,
   });
 
-  return { embeds: [embed], files };
+  return { embeds: [embed], files: [] };
 }
 
 module.exports = { RARITY_COLORS, RARITY_EMOJIS, buildCardEmbed };
