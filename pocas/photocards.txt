@@ -91,7 +91,8 @@ SIS|Barnes & Nobles Exclusive|common|Daniela|Daniela - SIS Barnes & Nobles Exclu
 SIS|Countdown Live|legendary|Daniela|Daniela - SIS Countdown Live.jpg
 SIS|Fan Live|legendary|Daniela|Daniela - SIS Fan Live.jpg
 SIS|Grammy Museum|divine|Daniela|Daniela - SIS Grammy Museum.jpg
-SIS|K-POP Nara Dallas Exclusive|common|Daniela|Daniela - SIS K-POP Nara Dallas Exclusive.webp
+SIS|K-POP Nara Dallas Exclusive|Divine|Daniela|Daniela - SIS K-POP Nara Dallas Exclusive.webp
+SIS|K-POP Nara Exclusive|rare|Daniela|Daniela - SIS K-POP Nara Exclusive.webp
 SIS|Official Store Exclusive|common|Daniela|Daniela - SIS Official Store Exclusive.jpg
 SIS|Soft Ver.|uncommon|Daniela|Daniela - SIS Soft Ver..jpg
 SIS|Strong Ver.|uncommon|Daniela|Daniela - SIS Strong Ver..jpg
@@ -153,10 +154,12 @@ WILD|Soundwave Pop-Up LD|legendary|Daniela|Daniela - WILD Soundwave Pop-Up LD.we
 WILD|Soundwave Raffle|legendary|Daniela|Daniela - WILD Soundwave Raffle.webp
 WILD|Studio Choom Gift|divine|Daniela|Daniela - WILD Studio Choom Gift.webp
 WILD|Target Exclusive|common|Daniela|Daniela - WILD Target Exclusive.webp
-WILD|Tour Mini Photocard #1|divine|Daniela|Daniela - WILD Tour Mini Photocard #1.webp
-WILD|Tour Mini Photocard #2|divine|Daniela|Daniela - WILD Tour Mini Photocard #2.webp
-WILD|Tour Mini Photocard #3|divine|Daniela|Daniela - WILD Tour Mini Photocard #3.webp
-WILD|Tour Mini Photocard #4|divine|Daniela|Daniela - WILD Tour Mini Photocard #4.webp
+WILD|Tour K-POP Nara NYC LD|epic|Daniela|Daniela - WILD Tour K-POP Nara NYC LD.webp
+WILD|Tour Mini Photocard #1|rare|Daniela|Daniela - WILD Tour Mini Photocard #1.webp
+WILD|Tour Mini Photocard #2|rare|Daniela|Daniela - WILD Tour Mini Photocard #2.webp
+WILD|Tour Mini Photocard #3|rare|Daniela|Daniela - WILD Tour Mini Photocard #3.webp
+WILD|Tour Mini Photocard #4|rare|Daniela|Daniela - WILD Tour Mini Photocard #4.webp
+WILD|Tour Mini Photocard #5|rare|Daniela|Daniela - WILD Tour Mini Photocard #5.webp
 WILD|Tower Records POB|rare|Daniela|Daniela - WILD Tower Records POB.webp
 WILD|Trading Card A Ver.|uncommon|Daniela|Daniela - WILD Trading Card A Ver..webp
 WILD|Trading Card B Ver.|uncommon|Daniela|Daniela - WILD Trading Card B Ver..webp
@@ -279,7 +282,8 @@ SIS|Barnes & Nobles Exclusive|common|Lara|Lara - SIS Barnes & Nobles Exclusive.j
 SIS|Countdown Live|legendary|Lara|Lara - SIS Countdown Live.jpg
 SIS|Fan Live|legendary|Lara|Lara - SIS Fan Live.jpg
 SIS|Grammy Museum|divine|Lara|Lara - SIS Grammy Museum.webp
-SIS|K-POP Nara Dallas Exclusive|common|Lara|Lara - SIS K-POP Nara Dallas Exclusive.jpg
+SIS|K-POP Nara Dallas Exclusive|Divine|Lara|Lara - SIS K-POP Nara Dallas Exclusive.jpg
+SIS|K-POP Nara Exclusive|rare|Lara|Lara - SIS K-POP Nara Exclusive.webp
 SIS|Official Store Exclusive|common|Lara|Lara - SIS Official Store Exclusive.webp
 SIS|Soft Ver.|uncommon|Lara|Lara - SIS Soft Ver..jpg
 SIS|Strong Ver.|uncommon|Lara|Lara - SIS Strong Ver..jpg
@@ -341,10 +345,12 @@ WILD|Soundwave Pop-Up LD|legendary|Lara|Lara - WILD Soundwave Pop-Up LD.webp
 WILD|Soundwave Raffle|legendary|Lara|Lara - WILD Soundwave Raffle.webp
 WILD|Studio Choom Gift|divine|Lara|Lara - WILD Studio Choom Gift.webp
 WILD|Target Exclusive|common|Lara|Lara - WILD Target Exclusive.webp
-WILD|Tour Mini Photocard #1|divine|Lara|Lara - WILD Tour Mini Photocard #1.webp
-WILD|Tour Mini Photocard #2|divine|Lara|Lara - WILD Tour Mini Photocard #2.webp
-WILD|Tour Mini Photocard #3|divine|Lara|Lara - WILD Tour Mini Photocard #3.webp
-WILD|Tour Mini Photocard #4|divine|Lara|Lara - WILD Tour Mini Photocard #4.webp
+WILD|Tour K-POP Nara NYC LD|epic|Lara|Lara - WILD Tour K-POP Nara NYC LD.webp
+WILD|Tour Mini Photocard #1|rare|Lara|Lara - WILD Tour Mini Photocard #1.webp
+WILD|Tour Mini Photocard #2|rare|Lara|Lara - WILD Tour Mini Photocard #2.webp
+WILD|Tour Mini Photocard #3|rare|Lara|Lara - WILD Tour Mini Photocard #3.webp
+WILD|Tour Mini Photocard #4|rare|Lara|Lara - WILD Tour Mini Photocard #4.webp
+WILD|Tour Mini Photocard #5|rare|Lara|Lara - WILD Tour Mini Photocard #5.webp
 WILD|Tower Records POB|rare|Lara|Lara - WILD Tower Records POB.webp
 WILD|Trading Card A Ver.|uncommon|Lara|Lara - WILD Trading Card A Ver..webp
 WILD|Trading Card B Ver.|uncommon|Lara|Lara - WILD Trading Card B Ver..webp
@@ -441,7 +447,8 @@ SIS|Barnes & Nobles Exclusive|common|Manon|Manon - SIS Barnes & Nobles Exclusive
 SIS|Countdown Live|legendary|Manon|Manon - SIS Countdown Live.webp
 SIS|Fan Live|legendary|Manon|Manon - SIS Fan Live.webp
 SIS|Grammy Museum|divine|Manon|Manon - SIS Grammy Museum.jpg
-SIS|K-POP Nara Dallas Exclusive|common|Manon|Manon - SIS K-POP Nara Dallas Exclusive.jpg
+SIS|K-POP Nara Dallas Exclusive|divine|Manon|Manon - SIS K-POP Nara Dallas Exclusive.jpg
+SIS|K-POP Nara Exclusive|rare|Manon|Manon - SIS K-POP Nara Exclusive.webp
 SIS|Official Store Exclusive|common|Manon|Manon - SIS Official Store Exclusive.jpg
 SIS|Soft Ver.|uncommon|Manon|Manon - SIS Soft Ver..jpg
 SIS|Strong Ver.|uncommon|Manon|Manon - SIS Strong Ver..jpg
@@ -540,7 +547,8 @@ SIS|Barnes & Nobles Exclusive|common|Megan|Megan - SIS Barnes & Nobles Exclusive
 SIS|Countdown Live|legendary|Megan|Megan - SIS Countdown Live.jpg
 SIS|Fan Live|legendary|Megan|Megan - SIS Fan Live.jpg
 SIS|Grammy Museum|divine|Megan|Megan - SIS Grammy Museum.jpg
-SIS|K-POP Nara Dallas Exclusive|common|Megan|Megan - SIS K-POP Nara Dallas Exclusive.jpg
+SIS|K-POP Nara Dallas Exclusive|divine|Megan|Megan - SIS K-POP Nara Dallas Exclusive.jpg
+SIS|K-POP Nara Exclusive|rare|Megan|Megan - SIS K-POP Nara Exclusive.webp
 SIS|Official Store Exclusive|common|Megan|Megan - SIS Official Store Exclusive.jpg
 SIS|Soft Ver.|uncommon|Megan|Megan - SIS Soft Ver..jpg
 SIS|Strong Ver.|uncommon|Megan|Megan - SIS Strong Ver..jpg
@@ -602,10 +610,12 @@ WILD|Soundwave Pop-Up LD|legendary|Megan|Megan - WILD Soundwave Pop-Up LD.webp
 WILD|Soundwave Raffle|legendary|Megan|Megan - WILD Soundwave Raffle.webp
 WILD|Studio Choom Gift|divine|Megan|Megan - WILD Studio Choom Gift.jpg
 WILD|Target Exclusive|common|Megan|Megan - WILD Target Exclusive.jpg
-WILD|Tour Mini Photocard #1|divine|Megan|Megan - WILD Tour Mini Photocard #1.webp
-WILD|Tour Mini Photocard #2|divine|Megan|Megan - WILD Tour Mini Photocard #2.webp
-WILD|Tour Mini Photocard #3|divine|Megan|Megan - WILD Tour Mini Photocard #3.webp
-WILD|Tour Mini Photocard #4|divine|Megan|Megan - WILD Tour Mini Photocard #4.webp
+WILD|Tour K-POP Nara NYC LD|epic|Megan|Megan - WILD Tour K-POP Nara NYC LD.webp
+WILD|Tour Mini Photocard #1|rare|Megan|Megan - WILD Tour Mini Photocard #1.webp
+WILD|Tour Mini Photocard #2|rare|Megan|Megan - WILD Tour Mini Photocard #2.webp
+WILD|Tour Mini Photocard #3|rare|Megan|Megan - WILD Tour Mini Photocard #3.webp
+WILD|Tour Mini Photocard #4|rare|Megan|Megan - WILD Tour Mini Photocard #4.webp
+WILD|Tour Mini Photocard #5|rare|Megan|Megan - WILD Tour Mini Photocard #5.webp
 WILD|Tower Records POB|rare|Megan|Megan - WILD Tower Records POB.jpg
 WILD|Trading Card A Ver.|uncommon|Megan|Megan - WILD Trading Card A Ver..webp
 WILD|Trading Card B Ver.|uncommon|Megan|Megan - WILD Trading Card B Ver..webp
@@ -707,7 +717,8 @@ SIS|Barnes & Nobles Exclusive|common|Sophia|Sophia - SIS Barnes & Nobles Exclusi
 SIS|Countdown Live|legendary|Sophia|Sophia - SIS Countdown Live.jpg
 SIS|Fan Live|legendary|Sophia|Sophia - SIS Fan Live.jpg
 SIS|Grammy Museum|divine|Sophia|Sophia - SIS Grammy Museum.jpg
-SIS|K-POP Nara Dallas Exclusive|common|Sophia|Sophia - SIS K-POP Nara Dallas Exclusive.jpg
+SIS|K-POP Nara Dallas Exclusive|divine|Sophia|Sophia - SIS K-POP Nara Dallas Exclusive.jpg
+SIS|K-POP Nara Exclusive|rare|Sophia|Sophia - SIS K-POP Nara Exclusive.webp
 SIS|Official Store Exclusive|common|Sophia|Sophia - SIS Official Store Exclusive.jpg
 SIS|Soft Ver.|uncommon|Sophia|Sophia - SIS Soft Ver..jpg
 SIS|Strong Ver.|uncommon|Sophia|Sophia - SIS Strong Ver..jpg
@@ -769,10 +780,11 @@ WILD|Soundwave Pop-Up LD|legendary|Sophia|Sophia - WILD Soundwave Pop-Up LD.jpg
 WILD|Soundwave Raffle|legendary|Sophia|Sophia - WILD Soundwave Raffle.webp
 WILD|Studio Choom Gift|divine|Sophia|Sophia - WILD Studio Choom Gift.webp
 WILD|Target Exclusive|common|Sophia|Sophia - WILD Target Exclusive.jpg
-WILD|Tour Mini Photocard #1|divine|Sophia|Sophia - WILD Tour Mini Photocard #1.jpg
-WILD|Tour Mini Photocard #2|divine|Sophia|Sophia - WILD Tour Mini Photocard #2.jpg
-WILD|Tour Mini Photocard #3|divine|Sophia|Sophia - WILD Tour Mini Photocard #3.png
-WILD|Tour Mini Photocard #4|divine|Sophia|Sophia - WILD Tour Mini Photocard #4.jpg
+WILD|Tour K-POP Nara NYC LD|epic|Sophia|Sophia - WILD Tour K-POP Nara NYC LD.webp
+WILD|Tour Mini Photocard #1|rare|Sophia|Sophia - WILD Tour Mini Photocard #1.jpg
+WILD|Tour Mini Photocard #2|rare|Sophia|Sophia - WILD Tour Mini Photocard #2.jpg
+WILD|Tour Mini Photocard #3|rare|Sophia|Sophia - WILD Tour Mini Photocard #3.png
+WILD|Tour Mini Photocard #4|rare|Sophia|Sophia - WILD Tour Mini Photocard #4.jpg
 WILD|Tower Records POB|rare|Sophia|Sophia - WILD Tower Records POB.jpg
 WILD|Trading Card A Ver.|uncommon|Sophia|Sophia - WILD Trading Card A Ver..webp
 WILD|Trading Card B Ver.|uncommon|Sophia|Sophia - WILD Trading Card B Ver..webp
@@ -870,7 +882,8 @@ SIS|Barnes & Nobles Exclusive|common|Yoonchae|Yoonchae - SIS Barnes & Nobles Exc
 SIS|Countdown Live|legendary|Yoonchae|Yoonchae - SIS Countdown Live.jpg
 SIS|Fan Live|legendary|Yoonchae|Yoonchae - SIS Fan Live.jpg
 SIS|Grammy Museum|divine|Yoonchae|Yoonchae - SIS Grammy Museum.jpg
-SIS|K-POP Nara Dallas Exclusive|common|Yoonchae|Yoonchae - SIS K-POP Nara Dallas Exclusive.jpg
+SIS|K-POP Nara Dallas Exclusive|divine|Yoonchae|Yoonchae - SIS K-POP Nara Dallas Exclusive.jpg
+SIS|K-POP Nara Exclusive|rare|Yoonchae|Yoonchae - SIS K-POP Nara Exclusive.webp
 SIS|Official Store Exclusive|common|Yoonchae|Yoonchae - SIS Official Store Exclusive.jpg
 SIS|Soft Ver.|uncommon|Yoonchae|Yoonchae - SIS Soft Ver..jpg
 SIS|Strong Ver.|uncommon|Yoonchae|Yoonchae - SIS Strong Ver..jpg
@@ -932,10 +945,11 @@ WILD|Soundwave Pop-Up LD|legendary|Yoonchae|Yoonchae - WILD Soundwave Pop-Up LD.
 WILD|Soundwave Raffle|legendary|Yoonchae|Yoonchae - WILD Soundwave Raffle.jpg
 WILD|Studio Choom Gift|divine|Yoonchae|Yoonchae - WILD Studio Choom Gift.jpg
 WILD|Target Exclusive|common|Yoonchae|Yoonchae - WILD Target Exclusive.jpeg
-WILD|Tour Mini Photocard #1|divine|Yoonchae|Yoonchae - WILD Tour Mini Photocard #1.webp
-WILD|Tour Mini Photocard #2|divine|Yoonchae|Yoonchae - WILD Tour Mini Photocard #2.webp
-WILD|Tour Mini Photocard #3|divine|Yoonchae|Yoonchae - WILD Tour Mini Photocard #3.jpg
-WILD|Tour Mini Photocard #4|divine|Yoonchae|Yoonchae - WILD Tour Mini Photocard #4.jpg
+WILD|Tour K-POP Nara NYC LD|epic|Yoonchae|Yoonchae - WILD Tour K-POP Nara NYC LD.webp
+WILD|Tour Mini Photocard #1|rare|Yoonchae|Yoonchae - WILD Tour Mini Photocard #1.webp
+WILD|Tour Mini Photocard #2|rare|Yoonchae|Yoonchae - WILD Tour Mini Photocard #2.webp
+WILD|Tour Mini Photocard #3|rare|Yoonchae|Yoonchae - WILD Tour Mini Photocard #3.jpg
+WILD|Tour Mini Photocard #4|rare|Yoonchae|Yoonchae - WILD Tour Mini Photocard #4.jpg
 WILD|Tower Records POB|rare|Yoonchae|Yoonchae - WILD Tower Records POB.jpg
 WILD|Trading Card A Ver.|uncommon|Yoonchae|Yoonchae - WILD Trading Card A Ver..jpg
 WILD|Trading Card B Ver.|uncommon|Yoonchae|Yoonchae - WILD Trading Card B Ver..jpg
